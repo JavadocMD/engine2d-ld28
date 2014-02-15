@@ -3,7 +3,7 @@ package com.javadocmd.engine2d.system
 import com.javadocmd.engine2d.component.Movement
 import com.javadocmd.engine2d.component.Position
 import com.javadocmd.engine2d.entity.Entity
-import com.javadocmd.engine2d.EventEngine
+import com.javadocmd.engine2d.event.EventEngine
 
 class MovementSystem extends System {
 

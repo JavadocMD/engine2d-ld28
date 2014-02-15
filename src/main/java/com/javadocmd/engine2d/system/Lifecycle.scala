@@ -4,7 +4,7 @@ import com.javadocmd.engine2d.component.Lifespan
 import com.javadocmd.engine2d.entity.Entity
 import com.javadocmd.engine2d.event.Event
 import com.javadocmd.engine2d.event.DieEvent
-import com.javadocmd.engine2d.EventEngine
+import com.javadocmd.engine2d.event.EventEngine
 
 class Lifecycle extends System {
 

@@ -1,7 +1,5 @@
-package com.javadocmd.engine2d
+package com.javadocmd.engine2d.event
 import scala.collection.mutable.Queue
-import com.javadocmd.engine2d.event.Event
-import com.javadocmd.engine2d.event.Handler
 import scala.collection.mutable.HashMap
 
 class EventEngine {

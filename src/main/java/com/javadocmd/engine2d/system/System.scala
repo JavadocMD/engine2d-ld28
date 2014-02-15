@@ -1,7 +1,7 @@
 package com.javadocmd.engine2d.system;
 
 import com.javadocmd.engine2d.entity.Entity
-import com.javadocmd.engine2d.EventEngine
+import com.javadocmd.engine2d.event.EventEngine
 
 /**
  * A system is any function that operates on entities with a certain set of
